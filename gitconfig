@@ -1,0 +1,7 @@
+[user]
+	name = Andreas Mueller
+	email = t3kcit@gmail.com
+[core]
+	editor = vim
+[pager]
+	grep = false
